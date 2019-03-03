@@ -1,0 +1,5 @@
+spring:
+  message: Hi Dev properties
+
+server:
+  port: 1111

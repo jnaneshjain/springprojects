@@ -1,0 +1,7 @@
+spring:
+  message: Hi Common properties
+  profiles:
+    active: prod #changed to prod
+
+server:
+  port: 1112
