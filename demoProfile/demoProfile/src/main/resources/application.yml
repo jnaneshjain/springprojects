@@ -1,7 +1,7 @@
 spring:
   message: Hi Common properties
   profiles:
-    active: prod #changed to prod
+    active: dev #Reverted back to dev
 
 server:
   port: 1112
